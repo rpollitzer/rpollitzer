@@ -1,4 +1,4 @@
-### Hi there 👋
+It's never the red wire
 
 <!--
 **rpollitzer/rpollitzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

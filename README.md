@@ -9,7 +9,7 @@ Languages & Frameworks: Python, Django, Javascript, React.js, PostgreSQL, HTML, 
 Other Tech Skills: Git, Github, Bootstrap, Test-Driven Development, Object-Oriented Programming, Pair Programming, Object-Relational Mapping, Agile Methodologies, Unit Testing
 Certifications: SAFe Practitioner, Naval School Explosive Ordnance Disposal, Advanced Imprviosed Threat Defeat 
 
-**FUTURE:**
+**FUTURE:**<p>
 Curently working on a Capital gain tracker app for new investors and dreaming up the next new big idea
 
 
